@@ -9,3 +9,9 @@ Link: https://www.rpachallenge.com/
 
 # Technology used:
 Selenium
+
+# Prerequisites and Dependencies:
+To proceed with the task, we will need the following:
+
+1. Download and install broswer driver (i,e Chrome Driver)
+2. Challenge excel file
